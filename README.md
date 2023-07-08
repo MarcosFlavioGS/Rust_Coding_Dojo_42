@@ -2,6 +2,12 @@
 
 Welcome to the 42sp Rust coding dojo.
 
+``` rust
+fn welcome() {
+    println!("Hello, 42");
+}
+```
+
 # Rust
 
 #### Empowering Safe and Efficient Systems Programming

@@ -38,7 +38,7 @@ One of Rust's key differentiators is its focus on memory safety. It guarantees m
 
 # Chalenges
 
-In This Coding Dojo you will need to implement a set of libft functions and, for those who dare, a special puzzle from [Advent of Code](https://adventofcode.com/) using Rust.
+In This Coding Dojo you will implement a set of libft functions and, for those who dare, a special puzzle from [Advent of Code](https://adventofcode.com/) using Rust.
 
 - ft_putstr
 - ft_strlen

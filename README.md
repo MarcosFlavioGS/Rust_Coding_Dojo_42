@@ -63,3 +63,5 @@ It will compile, if it is not already compiled, and run the code. Beware! Rust's
 * https://doc.rust-lang.org/stable/reference/index.html - The Rust Reference
 * https://doc.rust-lang.org/book/ - The Rust Programming Language
 * https://doc.rust-lang.org/stable/rust-by-example/ - Rust by Example
+
+Have fun :)

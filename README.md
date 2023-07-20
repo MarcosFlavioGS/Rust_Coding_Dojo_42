@@ -46,7 +46,7 @@ In This Coding Dojo you will implement a set of libft functions and, for those w
 - ft_strjoin
 - ft_split
 
-- AOC - Day 1, Part1
+- [AOC - Day 1, Part1](https://adventofcode.com/2022/day/1)
 
 # Compiling and executing
 

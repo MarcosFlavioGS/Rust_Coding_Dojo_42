@@ -47,3 +47,13 @@ In This Coding Dojo you will implement a set of libft functions and, for those w
 - ft_split
 
 - AOC - Day 1, Part1
+
+# Compiling and executing
+
+We are going to use Rust's powerful package manager, Cargo. It is used to install dependecies, compile our crates (Rust packages) and make them distributable.
+
+In the root of the repository, simply run:
+```sh
+cargo run
+```
+It will compile, if it is not already compiled, and run the code. Beware! Rust's compiler is as strict as the norm regarding memory safety.

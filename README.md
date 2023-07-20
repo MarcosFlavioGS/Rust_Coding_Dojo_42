@@ -53,7 +53,7 @@ In This Coding Dojo you will implement a set of libft functions and, for those w
 
 # Compiling and executing
 
-We are going to use Rust's powerful package manager, Cargo. It is used to install dependecies, compile our crates (Rust packages) and make them distributable.
+We are going to use Rust's powerful package manager, Cargo. It is used to install dependecies, compile our crates (Rust packages) and make them distributable. Run `install_rust.sh` to install it.
 
 In the root of the repository, simply run:
 ```sh

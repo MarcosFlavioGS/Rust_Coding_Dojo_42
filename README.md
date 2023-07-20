@@ -36,7 +36,7 @@ One of Rust's key differentiators is its focus on memory safety. It guarantees m
 
 - Interoperability: Rust offers seamless interoperability with other programming languages, particularly C/C++. It provides a Foreign Function Interface (FFI) that enables calling C/C++ libraries and allows developers to leverage existing codebases.
 
-# Chalenges
+# Challenges
 
 In This Coding Dojo you will implement a set of libft functions and, for those who dare, a special puzzle from [Advent of Code](https://adventofcode.com/) using Rust.
 
@@ -45,8 +45,11 @@ In This Coding Dojo you will implement a set of libft functions and, for those w
 - ft_strcpy
 - ft_strjoin
 - ft_split
-
 - [AOC - Day 1, Part1](https://adventofcode.com/2022/day/1)
+
+### Bonus
+- Enjoyed AOC? Their challenges are can get pretty tough!
+- Can you get_next_line?
 
 # Compiling and executing
 

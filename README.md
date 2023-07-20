@@ -48,7 +48,7 @@ In This Coding Dojo you will implement a set of libft functions and, for those w
 - [AOC - Day 1, Part1](https://adventofcode.com/2022/day/1)
 
 ### Bonus
-- Enjoyed AOC? Their challenges are can get pretty tough!
+- Enjoyed AOC? Their challenges can get pretty tough!
 - Can you get_next_line?
 
 # Compiling and executing

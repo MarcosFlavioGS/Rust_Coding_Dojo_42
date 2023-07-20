@@ -57,3 +57,9 @@ In the root of the repository, simply run:
 cargo run
 ```
 It will compile, if it is not already compiled, and run the code. Beware! Rust's compiler is as strict as the norm regarding memory safety.
+
+# References
+
+* https://doc.rust-lang.org/stable/reference/index.html - The Rust Reference
+* https://doc.rust-lang.org/book/ - The Rust Programming Language
+* https://doc.rust-lang.org/stable/rust-by-example/ - Rust by Example
